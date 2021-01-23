@@ -1,0 +1,14 @@
+ul{
+  padding: 0;
+}
+
+.CommentList-item{
+  margin-bottom: 5px;
+  padding:10px;
+  list-style:none;
+  border:1px solid black;
+}
+
+.CommentList-item:hover{
+  background: rgb(144, 227, 245);
+}
